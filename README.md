@@ -38,7 +38,7 @@ hostname -I
 
 ### Screenshot
 
-Insert Screenshot: `ip-address.png`
+Insert Screenshot: `Term1.png`
 
 ---
 
@@ -58,7 +58,7 @@ Purpose:
 
 ### Screenshot
 
-Insert Screenshot: `nmap-scan.png`
+Insert Screenshot: `Term2.png`
 
 ---
 
@@ -84,7 +84,7 @@ Purpose:
 
 ### Screenshot
 
-Insert Screenshot: `syn-scan.png`
+Insert Screenshot: `WS1.png`
 
 ---
 
@@ -100,7 +100,7 @@ Purpose:
 
 ### Screenshot
 
-Insert Screenshot: `wireshark-capture.png`
+Insert Screenshot: `WS5.png`
 
 ---
 
@@ -117,10 +117,6 @@ Purpose:
 * Isolate packets associated with connection attempts
 * Identify scanning behavior
 
-### Screenshot
-
-Insert Screenshot: `syn-filter.png`
-
 ---
 
 ## Step 6: Packet Analysis
@@ -133,18 +129,14 @@ Individual packets were examined to identify:
 * TCP Flags
 * Connection Attempts
 
-### Screenshot
-
-Insert Screenshot: `packet-analysis.png`
-
 ---
 
 ## Indicators of Compromise (IOCs)
 
 | IOC Type       | Value                     |
 | -------------- | ------------------------- |
-| Source IP      | YOUR_IP                   |
-| Destination IP | YOUR_IP                   |
+| Source IP      | 10.0.2.15                 |
+| Destination IP | 10.0.2.15                 |
 | Protocol       | TCP                       |
 | Activity       | Network Service Discovery |
 | Tool Observed  | Nmap                      |
