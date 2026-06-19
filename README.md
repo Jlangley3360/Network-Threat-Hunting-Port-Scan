@@ -38,7 +38,7 @@ hostname -I
 
 ### Screenshot
 
-Insert Screenshot: `Term1.png`
+![Identify](Term1.png)
 
 ---
 
@@ -58,7 +58,7 @@ Purpose:
 
 ### Screenshot
 
-Insert Screenshot: `Term2.png`
+![Identify](Term2.png)
 
 ---
 
@@ -83,8 +83,7 @@ Purpose:
 * Generate network traffic for analysis
 
 ### Screenshot
-
-Insert Screenshot: `WS1.png`
+![Scan](WS1.png)
 
 ---
 
@@ -100,7 +99,7 @@ Purpose:
 
 ### Screenshot
 
-Insert Screenshot: `WS5.png`
+![Wireshark](WS5.png)
 
 ---
 
